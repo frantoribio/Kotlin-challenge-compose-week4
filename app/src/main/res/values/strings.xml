@@ -10,4 +10,8 @@
       the License.
       -->
     <string name="app_name">AndroidDevChallenge</string>
+    <string name="today">Today</string>
+    <string name="weekly">Weekly</string>
+    <string name="search">Search City</string>
+
 </resources>

@@ -1,27 +1,32 @@
-# Template repository
+# Weather App
 
-Template repository for the Jetpack Compose [#AndroidDevChallenge](https://developer.android.com/dev-challenge).
+![Workflow result](https://github.com/mamorenoa/challenge-compose-week4/workflows/Check/badge.svg)
 
-## Getting started
-Copy this repository by pressing the "Use this template" button in Github.
-Clone your repository and open it in the latest [Android Studio (Canary build)](https://developer.android.com/studio/preview).
+## :scroll: Description
 
-## Submission requirements
-- Follow the challenge description on the project website: [developer.android.com/dev-challenge](https://developer.android.com/dev-challenge)
-- All UI should be written using Jetpack Compose
-- The Github Actions workflow should complete successfully
-- Include two screenshots of your submission in the [results](results) folder. The names should be
-  screenshot_1.png and screenshot_2.png.
-- Include a screen record of your submission in the [results](results) folder. The name should be
-  video.mp4
-- Replace the contents of [README.md](README.md) with the contents of [README-template.md](README-template.md) and fill out the template.
+Full implementation of a weather app using Jetpack Compose, View Models, Coroutines and Hilt. 
+There are two screens available: current weather and seven days forecast.
+This app has been made for the fourth week challenge of #AndroidDevChallenge.
 
-## Code formatting
-The CI uses [Spotless](https://github.com/diffplug/spotless) to check if your code is formatted correctly and contains the right licenses.
-Internally, Spotless uses [ktlint](https://github.com/pinterest/ktlint) to check the formatting of your code.
-To set up ktlint correctly with Android Studio, follow one of the [listed setup options](https://github.com/pinterest/ktlint#-with-intellij-idea).
+For making this amazing app, I get graphic resources from:
 
-Before committing your code, run `./gradlew app:spotlessApply` to automatically format your code.
+[FlatIcon](https://www.flaticon.es/)
+[LottieFiles](https://lottiefiles.com/)
+
+Weather data obtained from: 
+
+[OpenWeatherMap](https://openweathermap.org/api)
+
+## :bulb: Motivation and Context
+
+This time I have been focused in:
+- Theming
+- Layouts
+- Architecture
+
+## :camera_flash: Screenshots
+<!-- You can add more screenshots here if you like -->
+<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
 
 ## License
 ```
