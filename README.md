@@ -11,6 +11,7 @@ This app has been made for the fourth week challenge of #AndroidDevChallenge.
 For making this amazing app, I get graphic resources from:
 
 [FlatIcon](https://www.flaticon.es/)
+
 [LottieFiles](https://lottiefiles.com/)
 
 Weather data obtained from: 
@@ -27,6 +28,8 @@ This time I have been focused in:
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 <img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
+
+https://user-images.githubusercontent.com/6997798/112216538-ea70c300-8c21-11eb-88a7-0938b5328ad3.mp4
 
 ## License
 ```
